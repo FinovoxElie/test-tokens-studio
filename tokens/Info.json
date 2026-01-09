@@ -1,0 +1,40 @@
+{
+  "dark": {
+    "$type": "color",
+    "$value": "#00276b"
+  },
+  "main": {
+    "$type": "color",
+    "$value": "#0a4e9a"
+  },
+  "alert": {
+    "content": {
+      "$type": "color",
+      "$value": "#041f3e"
+    },
+    "background": {
+      "$type": "color",
+      "$value": "#e6edf5"
+    }
+  },
+  "light": {
+    "$type": "color",
+    "$value": "#5179cb"
+  },
+  "contrast": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "outlined resting border": {
+    "$type": "color",
+    "$value": "#0a4e9a80"
+  },
+  "outlined hover background": {
+    "$type": "color",
+    "$value": "#0a4e9a14"
+  },
+  "contained hover background": {
+    "$type": "color",
+    "$value": "#07376c"
+  }
+}

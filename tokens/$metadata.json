@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "Base",
+    "Primary",
+    "Action",
+    "Info",
+    "Error",
+    "Warning",
+    "Success"
+  ]
+}

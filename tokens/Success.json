@@ -1,0 +1,36 @@
+{
+  "dark": {
+    "$type": "color",
+    "$value": "#0f572a"
+  },
+  "main": {
+    "$type": "color",
+    "$value": "#288a61"
+  },
+  "alert": {
+    "content": {
+      "$type": "color",
+      "$value": "#065e49"
+    },
+    "background": {
+      "$type": "color",
+      "$value": "#d4f7e1"
+    }
+  },
+  "light": {
+    "$type": "color",
+    "$value": "#b0e8d1"
+  },
+  "contrast": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "background": {
+    "$type": "color",
+    "$value": "#eaf7f0"
+  },
+  "outlined border": {
+    "$type": "color",
+    "$value": "#daf1e5"
+  }
+}

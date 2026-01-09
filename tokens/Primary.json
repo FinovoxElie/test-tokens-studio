@@ -1,0 +1,30 @@
+{
+  "dark": {
+    "$type": "color",
+    "$value": "#1a2ba2"
+  },
+  "main": {
+    "$type": "color",
+    "$value": "#4154e0"
+  },
+  "light": {
+    "$type": "color",
+    "$value": "#9aa4ef"
+  },
+  "contrast": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "background": {
+    "$type": "color",
+    "$value": "#f7f9ff"
+  },
+  "outline resting border": {
+    "$type": "color",
+    "$value": "#a3acf0"
+  },
+  "contained hover background": {
+    "$type": "color",
+    "$value": "#131f76"
+  }
+}

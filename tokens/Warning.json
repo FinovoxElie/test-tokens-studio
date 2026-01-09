@@ -1,0 +1,26 @@
+{
+  "dark": {
+    "$type": "color",
+    "$value": "#5f3907"
+  },
+  "main": {
+    "$type": "color",
+    "$value": "#cb7b10"
+  },
+  "light": {
+    "$type": "color",
+    "$value": "#f8d2a0"
+  },
+  "contrast": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "background": {
+    "$type": "color",
+    "$value": "#fdf6ec"
+  },
+  "outlined border": {
+    "$type": "color",
+    "$value": "#fae5c7"
+  }
+}
